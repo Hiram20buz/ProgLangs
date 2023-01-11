@@ -25,24 +25,24 @@
 # Evidence
   
   ## c.py
-  ![alt text](opencv/opencv2c.png)
+  ![alt text](opencv2c.png)
   
   ## c1.py
-  ![alt text](opencv/opencv2c1.png)
+  ![alt text](opencv2c1.png)
   
   ## c2.py
-  ![alt text](opencv/opencv2c2.png)
-  ![alt text](opencv/opencv2c2.1.png)
+  ![alt text](opencv2c2.png)
+  ![alt text](opencv2c2.1.png)
   ## c3.py
-  ![alt text](opencv/opencv2c3.png)
+  ![alt text](opencv2c3.png)
   ## c4.py
-  ![alt text](opencv/opencv2c4.png)
+  ![alt text](opencv2c4.png)
   
   ## c5.py
-  ![alt text](opencv/opencv2c5.png)
+  ![alt text](opencv2c5.png)
   ## c8.py
-  ![alt text](opencv/opencv2c8.png)
+  ![alt text](opencv2c8.png)
   
   ## tracker1.py
-  ![alt text](opencv/opencv2tracker1.png)
-  ![alt text](opencv/opencv2tracker1.1.png)
+  ![alt text](opencv2tracker1.png)
+  ![alt text](opencv2tracker1.1.png)
