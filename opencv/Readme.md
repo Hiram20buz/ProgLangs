@@ -18,7 +18,7 @@
 
 ## windows
 ### pip install virtualenv
-### python<version> -m venv <virtual-environment-name>
+### python<<version>> -m venv <<virtual-environment-name>>
 ## Example:
 ### mkdir projectA
 ### cd projectA
@@ -32,7 +32,7 @@
   
 ## Linux
 ### pip install virtualenv
-### python<version> -m venv <virtual-environment-name>
+### python<<version>> -m venv <<virtual-environment-name>>
 ## Example:
 ### mkdir projectA
 ### cd projectA
