@@ -29,6 +29,7 @@
 ## Deactivate
 ### deactivate
 
+  
 ## Linux
 ### pip install virtualenv
 ### python<version> -m venv <virtual-environment-name>
@@ -41,11 +42,13 @@
 ## Deactivate
 ### deactivate
 
-##Commands to verify you are inside a virtual env
+  
+## Commands to verify you are inside a virtual env
 ### pip list
 ### pip -V
-## python -V
+### python -V
 
+  
 ## How to create requirements.txt of your project
 ### pip freeze > requirements.txt
 
