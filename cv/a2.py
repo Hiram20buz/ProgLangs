@@ -1,0 +1,16 @@
+import cv2
+img=cv2.imread("mr.jpg")
+gray=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+thresh_img=cv2.threshold(gray,100,255,100)
+contours,hierarchy=cv2.findContours(thresh_img[1],cv2.RETR_TREE,cv2.CHAIN_APPROX_SIMPLE)
+cv2.drawContours(img,contours,-1,(255,0,0),3)
+cv2.imwrite("contours.jpg",img)
+cv2.imshow("contours",img)
+
+#dsize=(500,500)
+#output=cv2.resize(img,dsize)
+#output1=cv2.resize(edges,dsize)
+#cv2.imshow("Original",output)
+#cv2.imshow("Filtro",output1)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
