@@ -37,6 +37,7 @@
 ### mkdir projectA
 ### cd projectA
 ### python3.8 -m venv env
+### virtualenv env
 ## Activate
 ### source env/bin/activate
 ## Deactivate
