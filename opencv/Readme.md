@@ -15,6 +15,7 @@
 
 ## How to create a virtual environment in python
 ### https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/
+### https://stackoverflow.com/questions/14604699/how-to-activate-virtualenv-in-linux
 
 ## windows
 ### pip install virtualenv
